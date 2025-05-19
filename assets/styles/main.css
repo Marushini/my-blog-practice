@@ -21,3 +21,8 @@ body.dark-mode {
 body.dark-mode a {
   color: #bb86fc;
 }
+body {
+  background-color: white;
+  color: black;
+}
+
