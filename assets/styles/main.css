@@ -16,3 +16,8 @@ body.dark-mode {
 body.dark-mode a {
   color: #bb86fc;
 }
+/* Dark Theme Styles */
+body {
+  background-color: black;
+  color: white;
+}
