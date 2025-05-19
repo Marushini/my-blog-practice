@@ -1,29 +1,5 @@
-
-.subscribe-btn {
-  background-color: rgb(236, 45, 45);
-  color  : white;
-}
-
-
 .subscribe-button {
-  background-color: black;
-  color: yellow;
-}
-
-.subscribe-btn:hover {
-  background-color: #e64a19;
-}
-/* Dark mode */
-body.dark-mode {
-  background-color: #121212;
-  color: #e0e0e0;
-}
-
-body.dark-mode a {
-  color: #bb86fc;
-}
-/* Dark Theme Styles */
-body {
-  background-color: black;
+  background-color: blue;
   color: white;
 }
+
