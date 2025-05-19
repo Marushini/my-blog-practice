@@ -6,9 +6,11 @@
 
 
 .subscribe-button {
-  background-color: black;
-  color: yellow;
+  background-color: blue;
+  color: white;
+  padding: 10px;
 }
+
 
 .subscribe-btn:hover {
   background-color: #e64a19;
